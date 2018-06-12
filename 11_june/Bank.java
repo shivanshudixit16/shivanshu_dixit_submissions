@@ -1,5 +1,6 @@
 package day6;
 import java.util.*;
+//banking softwatre
 interface account
 {
 
