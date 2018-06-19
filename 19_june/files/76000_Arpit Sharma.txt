@@ -1,0 +1,8 @@
+1234
+67191
+19/JUNE/2018	16:38:48	By Self(By Atm)	+212	     	67212
+19/JUNE/2018	16:38:51	TO Self(By Atm)	       	-1212	66000
+19/JUNE/2018	16:38:53	By Self(By Atm)	+1212	     	67212
+19/JUNE/2018	16:38:58	TO Self(By Atm)	       	-21	67191
+19/JUNE/2018	16:39:00	TO Self(By Atm)	       	-12	67179
+19/JUNE/2018	16:39:02	By Self(By Atm)	+12	     	67191
