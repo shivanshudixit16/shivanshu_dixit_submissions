@@ -7,10 +7,13 @@ consider below exceptions, and print the same whenever occurred:
 - No transaction in -ve amount is permitted
 
 Implementation 
+
+
 i have made funnctions for credit balance, debit balance and mini statement (it prints last five transactions)
 
 for the exceptions in transactions i have made exception clases for each exception
+
 -LowBalanceException
 -MaxLimitException
 -NegativeTransactionException
--
+
